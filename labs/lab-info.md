@@ -10,7 +10,7 @@ To access the Windows VMs, please go to [Inspired Portal](https://html.inspiredv
 | Chander           | Anand      | WNS2022-88 |             |
 | Rexford           | Machu      | WNS2022-89 |             |
 | Sarnam            | Patel      | WNS2022-90 |             |
-| Shankar           | Reddy      | WNS2022-91 |             |
+| Madhukar          | Kalla      | WNS2022-94 |             |
 | Srividhya Kalyana | Ramamurthy | WNS2022-91 |             |
 | Harpreet S        | Lotay      | WNS2022-92 |             |
 | Vanaja            | Pilaka     | WNS2022-93 |             |
@@ -27,7 +27,7 @@ To access the Windows VMs, please go to [Inspired Portal](https://html.inspiredv
 | Chander           | Anand      | 52.53.182.42   |
 | Rexford           | Machu      | 54.151.121.25  |
 | Sarnam            | Patel      | 54.177.46.3    |
-| Shankar           | Reddy      | 13.56.197.212  |
+| Madhukar          | Kalla      | 13.56.197.212  |
 | Srividhya Kalyana | Ramamurthy | 54.153.90.26   |
 | Harpreet S        | Lotay      | 54.193.247.138 |
 | Vanaja            | Pilaka     | 54.183.152.62  |
@@ -47,7 +47,7 @@ Instructor will provide the password
 | Chander           | Anand      | student6       |
 | Rexford           | Machu      | student7       |
 | Sarnam            | Patel      | student8       |
-| Shankar           | Reddy      | student9       |
+| Madukar           | Kalla      | student9       |
 | Srividhya Kalyana | Ramamurthy | student10      |
 | Harpreet S        | Lotay      | student11      |
 | Vanaja            | Pilaka     | student12      |
