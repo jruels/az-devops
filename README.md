@@ -7,7 +7,7 @@ This site includes the labs for the DevOps Foundation class
 [//]: # (https://docs.google.com/spreadsheets/d/1psMAAPxgHq9wpZVftao9UT8MIWR1xljq-WB8aOiVBRI/edit?usp=sharing)
 Instructor will provide lab VM sheet.
 
-[Lab Setup](labs/setup/)  
+[Lab Setup](labs/lab-info.md/)  
 
 ## Labs
 Lab 0: [Access Linux Machine](labs/setup)   
