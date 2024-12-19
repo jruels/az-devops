@@ -3,7 +3,7 @@
 This site includes the content for the DevOps Foundation class
 
 
-# Slides
+## Slides
 [DevOps Foundation Slides](slides/DevOps-Foundation.pdf)  
 
 ## Labs
