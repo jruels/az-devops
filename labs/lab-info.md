@@ -37,7 +37,7 @@ Please log into the [Azure Portal](http://portal.azure.com) using the credential
 
 Username: `<student#>@jasoninnovationinsoftware.onmicrosoft.com`
 
-Instructor will provide the password 
+The password is `T4!n^G2024#Nx`
 
 | First Name        | Last Name  | student number |
 | ----------------- | ---------- | -------------- |
